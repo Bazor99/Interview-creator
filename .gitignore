@@ -1,5 +1,7 @@
 .env
 
+Generative_AI_project.egg-info
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
